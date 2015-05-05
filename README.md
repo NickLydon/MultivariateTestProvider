@@ -34,6 +34,6 @@ This is similar to adding a config file with tests or variants with the same nam
     	VariantC: 10
     Test2
     	VariantA: 10
-    	VariantB: 90
+    	VariantA: 90
 
 Results in:
