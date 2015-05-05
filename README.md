@@ -27,3 +27,13 @@ If you provide a config file that includes variants totalling more than 100%, e.
 You will get an error message and it won't compile: 
 
 This is similar to adding a config file with tests or variants with the same name:
+
+    Test1
+    	VariantA: 23
+    	VariantB: 67
+    	VariantC: 10
+    Test2
+    	VariantA: 10
+    	VariantB: 90
+
+Results in:
