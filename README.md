@@ -14,6 +14,7 @@ Given a text file with the format:
 It will allow you to get statically typed access to the test variant names and their weights:
 
 If you provide a config file that includes variants totalling more than 100%, e.g.
+
     Test1
     	VariantA: 23
     	VariantB: 67
